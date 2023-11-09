@@ -40,37 +40,38 @@
 		<meta property="term" refines="#subject-3">sh2008110039</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A superintendent and an sleuth attempt to solve a locked room mystery after the murderer contact them via phone.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>While sitting in his office, Superintendent Sinclair receives a phone call from an unknown caller, who claims that they murdered the Home Secretary in his home. Together with Sylvester Collins, an eccentric sleuth, Sinclair comes to the Home Secretary’s house to investigate the truth of the call, only to discover the body of the victim in a locked room. Is this a bizarre suicide judging by the locked room situation and the phone call, or is this a murder committed by a skilled murderer? This is the question the duo have in mind as their investigation digs deeper into the victim’s relationship with his daughter and estranged son.</p>
+			<p>Written in 1926, the peak of the Golden Age of Detective Fiction, <a href="https://standardebooks.org/ebooks/walter-s-masterman">Walter S.Masterman</a>’s <i>The Wrong Letter</i> features a typical whodunit structure along with a locked room mystery, yet the novel remains standing out with its intricate clue-puzzle and a fresh take on the classical detective and assistant dynamic. While Collins and Sinclair's dynamic initially resemble Sherlock Holmes and Doctor Watson's, their relationship soon evolves beyond their archetype to stand out on their own, which shows itself best in the scene leading to the ending.</p>
+			<p>Included in this version is a preface written by G. K. Chesterton. As his Preface claims, it is best to describe <i>The Wrong Letter</i> in what it does not do because the twist lies precisely in what it does do: something that cannot be described without giving away the novel's biggest surprise. Fans of classical detective novels are likely to enjoy this well-written mystery.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70964</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Wrong_Letter/t7kNAQAAIAAJ</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-s-masterman_the-wrong-letter</meta>
 		<dc:creator id="author">Walter S. Masterman</dc:creator>
 		<meta property="file-as" refines="#author">Masterman, Walter S.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Walter Sydney Masterman</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Walter_S._Masterman</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no95043173</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">George Reid</dc:contributor>
+		<meta property="file-as" refines="#artist">Reid, George</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Reid_(Scottish_artist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006082240</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="writer-of-preface">G. K. Chesterton</dc:contributor>
+		<meta property="file-as" refines="#writer-of-preface">Chesterton, G. K.</meta>
+		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="transcriber-1">	Brian Raiter</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Raiter, Brain</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Lam Le</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Le, Lam</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
