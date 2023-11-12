@@ -18,10 +18,4 @@
 			<reason>The letter spans several paragraphs.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-16.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>The speaker's dialogue spans several paragraphs.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
