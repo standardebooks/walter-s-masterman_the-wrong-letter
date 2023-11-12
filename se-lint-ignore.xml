@@ -6,16 +6,4 @@
 			<reason>The speaker's dialogue spans several paragraphs.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-3.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>The letter spans several paragraphs.</reason>
-		</ignore>
-	</file>
-	<file path="chapter-4.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>The letter spans several paragraphs.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
