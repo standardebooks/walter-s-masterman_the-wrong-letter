@@ -40,6 +40,7 @@
 		<meta property="term" refines="#subject-3">sh2008110039</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A superintendent and an sleuth attempt to solve a locked room mystery after the murderer contact them via phone.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
