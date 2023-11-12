@@ -21,6 +21,8 @@ footer{
 	font-variant: small-caps;
 }
 
-.centered-text{
+#chapter-1 blockquote,
+#chapter-3 blockquote:first-of-type,
+#chapter-9 blockquote:last-of-type{
 	text-align: center;
 }
