@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-11-18T23:06:00Z</dc:date>
+		<meta property="dcterms:modified">2023-11-18T23:06:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,15 +44,14 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A superintendent and an sleuth attempt to solve a locked room mystery after the murderer contact them via phone.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;While sitting in his office, Superintendent Sinclair receives a phone call from an unknown caller, who claims that they murdered the Home Secretary in his home. Together with Sylvester Collins, an eccentric sleuth, Sinclair comes to the Home Secretary’s house to investigate the truth of the call, only to discover the body of the victim in a locked room. Is this a bizarre suicide judging by the locked room situation and the phone call, or is this a murder committed by a skilled murderer? This is the question the duo have in mind as their investigation digs deeper into the victim’s relationship with his daughter and estranged son.&lt;/p&gt;
-			&lt;p&gt;Written in 1926, the peak of the Golden Age of Detective Fiction, &lt;a href="https://standardebooks.org/ebooks/walter-s-masterman"&gt;Walter S. Masterman’s&lt;/a&gt; &lt;i&gt;The Wrong Letter&lt;/i&gt; features a typical whodunit structure along with a locked room mystery, yet the novel remains standing out with its intricate clue-puzzle and a fresh take on the classical detective and assistant dynamic. While Collins and Sinclair’s dynamic initially resemble Sherlock Holmes and Doctor Watson’s, their relationship soon evolves beyond their archetype to stand out on their own, which shows itself best in the scene leading to the ending.&lt;/p&gt;
-			&lt;p&gt;Included in this version is a preface written by G. K. Chesterton. As his Preface claims, it is best to describe &lt;i&gt;The Wrong Letter&lt;/i&gt; in what it does not do because the twist lies precisely in what it does do: something that cannot be described without giving away the novel’s biggest surprise. Fans of classical detective novels are likely to enjoy this well-written mystery.&lt;/p&gt;
+			&lt;p&gt;While in his office, Superintendent Sinclair receives a phone call from an unknown caller, who claims that they murdered the Home Secretary in his home. Together with Sylvester Collins, an eccentric sleuth, Sinclair goes to the Home Secretary’s house to investigate the truth of the call, only to discover the body of the victim in a locked room. Is this a bizarre suicide, or is it a skillfully-executed murder? This is the question the duo have in mind as their investigation digs deeper into the victim’s relationship with his daughter and estranged son.&lt;/p&gt;
+			&lt;p&gt;Written in 1926, the peak of the Golden Age of Detective Fiction, &lt;a href="https://standardebooks.org/ebooks/walter-s-masterman"&gt;Walter S. Masterman’s&lt;/a&gt; &lt;i&gt;The Wrong Letter&lt;/i&gt; follows a typical whodunit structure centered around a locked-room mystery, yet the novel stands out with its intricate clue-puzzle and its fresh take on the classical detective-and-assistant dynamic. While Collins and Sinclair’s relationship initially resembles Sherlock Holmes and Watson’s, it soon evolves beyond a mere archetype.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70964</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Wrong_Letter/t7kNAQAAIAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">41901</meta>
+		<meta property="se:reading-ease.flesch">84.78</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-s-masterman_the-wrong-letter</meta>
 		<dc:creator id="author">Walter S. Masterman</dc:creator>
 		<meta property="file-as" refines="#author">Masterman, Walter S.</meta>
@@ -79,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
