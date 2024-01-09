@@ -6,7 +6,7 @@
 }
 
 [epub|type~="z3998:letter"] header [epub|type~="z3998:salutation"]{
-	text-align: left;
+	text-align: initial;
 }
 
 footer{
