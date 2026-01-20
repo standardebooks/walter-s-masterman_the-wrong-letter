@@ -51,7 +51,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70964</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Wrong_Letter/t7kNAQAAIAAJ</dc:source>
-		<meta property="se:word-count">41901</meta>
+		<meta property="se:word-count">41422</meta>
 		<meta property="se:reading-ease.flesch">84.78</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-s-masterman_the-wrong-letter</meta>
 		<dc:creator id="author">Walter S. Masterman</dc:creator>
