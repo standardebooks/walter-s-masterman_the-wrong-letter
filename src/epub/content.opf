@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/walter-s-masterman/the-wrong-letter</dc:identifier>
 		<dc:date>2023-11-18T23:06:00Z</dc:date>
 		<meta property="dcterms:modified">2023-11-18T23:06:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -41,8 +42,8 @@
 		<meta property="term" refines="#subject-3">sh2008110039</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Mystery</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:genre">Mystery</meta>
 		<dc:description id="description">A superintendent and an sleuth attempt to solve a locked-room mystery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;While in his office, Superintendent Sinclair receives a phone call from an unknown caller, who claims that they murdered the Home Secretary in his home. Together with Sylvester Collins, an eccentric sleuth, Sinclair goes to the Home Secretary’s house to investigate the truth of the call, only to discover the body of the victim in a locked room. Is this a bizarre suicide, or is it a skillfully executed murder? This is the question the duo have in mind as their investigation digs deeper into the victim’s relationship with his daughter and estranged son.&lt;/p&gt;
@@ -51,23 +52,25 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70964</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Wrong_Letter/t7kNAQAAIAAJ</dc:source>
-		<meta property="se:word-count">41422</meta>
-		<meta property="se:reading-ease.flesch">84.78</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/walter-s-masterman_the-wrong-letter</meta>
+		<meta property="schema:wordCount">41422</meta>
+		<meta property="schema:educationalLevel">84.78</meta>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/walter-s-masterman_the-wrong-letter" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Walter S. Masterman</dc:creator>
 		<meta property="file-as" refines="#author">Masterman, Walter S.</meta>
-		<meta property="se:name.person.full-name" refines="#author">Walter Sydney Masterman</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Walter_S._Masterman</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no95043173</meta>
+		<meta property="schema:alternateName" refines="#author">Walter Sydney Masterman</meta>
+		<link href="https://en.wikipedia.org/wiki/Walter_S._Masterman" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no95043173.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">George Reid</dc:contributor>
 		<meta property="file-as" refines="#artist">Reid, George</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Reid_(Scottish_artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006082240</meta>
+		<link href="https://en.wikipedia.org/wiki/George_Reid_(Scottish_artist)" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2006082240.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="writer-of-preface">G. K. Chesterton</dc:contributor>
 		<meta property="file-as" refines="#writer-of-preface">Chesterton, G. K.</meta>
-		<meta property="se:url.authority.nacoaf" refines="#writer-of-preface">http://id.loc.gov/authorities/names/n79021157</meta>
+		<link href="https://id.loc.gov/authorities/names/n79021157.html" refines="#writer-of-preface" rel="schema:sameAs"/>
 		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Raiter, Brain</meta>
@@ -82,7 +85,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<link href="https://www.linkedin.com/in/emma-sweeney-554927190/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
