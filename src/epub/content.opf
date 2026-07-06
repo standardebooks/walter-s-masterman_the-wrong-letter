@@ -54,7 +54,7 @@
 		<dc:source>https://www.google.com/books/edition/The_Wrong_Letter/t7kNAQAAIAAJ</dc:source>
 		<meta property="schema:wordCount">41422</meta>
 		<meta property="schema:educationalLevel">84.78</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/walter-s-masterman_the-wrong-letter" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Walter S. Masterman</dc:creator>
